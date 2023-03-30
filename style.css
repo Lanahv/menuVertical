@@ -3,8 +3,8 @@
   }
   
   .vertical-menu a {
-    background-color: #eee; /* Grey background color */
-    color: black; /* Black text color */
+    background-color: #000000; /* Grey background color */
+    color: rgb(255, 255, 255); /* Black text color */
     display: block; /* Make the links appear below each other */
     padding: 12px; /* Add some padding */
     text-decoration: none; /* Remove underline from links */

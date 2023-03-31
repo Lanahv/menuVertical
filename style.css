@@ -3,7 +3,7 @@
   }
   
   .vertical-menu a {
-    background-color: #000000; /* Black background color */
+    background-color: #ff0000; /* Black background color */
     color: rgb(255, 255, 255); /* White text color */
     display: block; /* Make the links appear below each other */
     padding: 12px; /* Add some padding */

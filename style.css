@@ -21,9 +21,9 @@
 
 
 
-  .centro{
-    margin-left: auto;
-    margin-right: auto;
+  .center{
+    text-align: center;
+    border:#000000
   }
 
   

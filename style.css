@@ -1,6 +1,6 @@
 .vertical-menu {
     width: 400px; /* Set a width if you like */
-    height: 300px;
+    height: 100px;
   }
   
   .vertical-menu a {
@@ -12,7 +12,7 @@
   }
   
   .vertical-menu a:hover {
-    background-color: #088d1e; /* Dark grey background on mouse-over */
+    background-color: #9a32af; /* Dark grey background on mouse-over */
   }
   
   .vertical-menu a.active {

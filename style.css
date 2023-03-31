@@ -24,13 +24,10 @@
   margin-right: auto;
 }
 
-.vertical-menu{
-  border-radius: 25px;
-  border:2px solid #000000;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+div{
+  height: 300px;
 }
+
 
 
 

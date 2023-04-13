@@ -34,6 +34,38 @@ div{
 
 */
 
+.vertical-menu {
+  width: 500px;
+  height: 900px;
+  text-align:center;
+  font-style: 'courier';
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+
+
+}
+
+
+
+
+.vertical-menu a
+{
+  background-color:#552483;
+  color:aliceblue;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+
+
+}
+.vertical-menu a:hover{
+  background-color:#9a32af;
+}
+
+
 
 
 

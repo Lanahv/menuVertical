@@ -35,8 +35,8 @@ div{
 */
 
 .vertical-menu {
-  width: 500px;
-  height: 1000px;
+  width: 1000px;
+  height: 500px;
   text-align:center;
   font-style: 'courier';
   display: block;

@@ -7,7 +7,7 @@
   background-color: #552483; /* Black background color */
   color: rgb(255, 255, 255); /* White text color */
   display: block; /* Make the links appear below each other */
-  padding: 50px; /* Add some padding */
+  padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
 }
 

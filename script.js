@@ -1,6 +1,6 @@
 h2{
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
-DATA E HORA</button>
+Clique aqui para aparecer a hora atual</button>
 }
 <p id="demo"></p>

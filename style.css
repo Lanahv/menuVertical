@@ -31,6 +31,7 @@ margin-right: auto;
  
 .vertical-menu {
   width: 1000px;
+  height: 100px;
  }
 
 
@@ -41,9 +42,8 @@ margin-right: auto;
   display: block;
   padding: 50px;
   text-decoration: none;
-
-
 }
+
 .vertical-menu a:hover {
   background-color:#9a32af;
 }

@@ -4,11 +4,12 @@
 
 
 .vertical-menu a {
-  background-color: #552483; /* Black background color */
+  background-color: #04AA6D; /* Black background color */
   color: rgb(255, 255, 255); /* White text color */
   display: block; /* Make the links appear below each other */
   padding: 50px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
+  font-family: 'Courier New', Courier, monospace;
 }
 
 

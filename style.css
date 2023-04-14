@@ -1,26 +1,37 @@
+.vertical-menu {
+  width: 500px; /* Set a width if you like */
+}
+
+
 .vertical-menu a {
-  background-color: rgb(16, 2, 37); /* Grey background color */
-  color: black; /* Black text color */
+  background-color: #552483; /* Black background color */
+  color: rgb(255, 255, 255); /* White text color */
   display: block; /* Make the links appear below each other */
   padding: 50px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
 }
 
+
 .vertical-menu a:hover {
-  background-color: #780adf; /* Dark grey background on mouse-over */
+  background-color: #9a32af; /* Dark grey background on mouse-over */
 }
 
+
 .vertical-menu a.active {
-  background-color: #04AA6D; /* Add a green color to the "active/current" link */
+  background-color: #ffffff; /* Add a green color to the "active/current" link */
   color: white;
 }
 
-.vertical-menu a {
-  width: 200px;
+
+.vertical-menu{
+margin-left: auto;
+margin-right: auto;
 }
 
-.vertical-menu {
-  text-align: center;
+
+div{
+height: 500px;
 }
+
 
   

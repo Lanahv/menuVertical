@@ -44,6 +44,6 @@ h1{
 }
   
 h2{
-  bottom: unset;
+  border-bottom-right-radius: 0%;
 }
 

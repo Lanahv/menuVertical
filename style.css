@@ -1,8 +1,6 @@
 .vertical-menu {
-  width: 400px; /* Set a width if you like */
+  width: 500px; /* Set a width if you like */
 }
-
-
 .vertical-menu a {
   background-color: #04AA6D; /* Black background color */
   color: rgb(255, 255, 255); /* White text color */
@@ -12,11 +10,9 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-
 .vertical-menu a:hover {
   background-color: #00b409; /* Dark grey background on mouse-over */
 }
-
 
 .vertical-menu a.active {
   background-color: #ffffff; /* Add a green color to the "active/current" link */
@@ -37,11 +33,16 @@ h1{
   text-align: center;
 }
 
-
-h2{
-margin-left: auto;
-margin-right: auto;
-padding-inline-end: 0%;
+.button{
+  margin-left: auto;
+  margin-right: auto;
 }
+
+.alana{
+  text-align: rigth;
+  padding: 35%;
+}
+
+
 
 
